@@ -7,6 +7,7 @@ public class App {
 		System.out.println("Hello world!");
 		metodo1();
 		metodo2();
+		System.out.println("Hello world!");
 	}
 
 	private static void metodo2() {
