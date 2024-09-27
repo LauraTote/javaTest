@@ -6,9 +6,16 @@ public class App {
 
 		System.out.println("Hello world!");
 		metodo1();
+		metodo2();
+	}
+
+	private static void metodo2() {
+        System.out.println("metodo 2");		
 	}
 
 	private static void metodo1() {
 		System.out.println("metodo 1");
+		
+	
 	}
 }
